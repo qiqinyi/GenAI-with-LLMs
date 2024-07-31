@@ -1,7 +1,7 @@
 # GenAI-with-LLMs
 This repository contains my lab work in “Generative AI with Large Language Models” course offered by DeepLearning.AI and Amazon Web Services on coursera. 
 
-- [Coursera](https://www.coursera.org/learn/generative-ai-with-llms#modules)
+- [Coursera](https://www.coursera.org/learn/generative-ai-with-llms)
 - [DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
 
 ### Lab Resources
